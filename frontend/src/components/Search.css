@@ -1,0 +1,38 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color:rgb(0, 59, 96);
+    color:white;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .input-group {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .about {
+    background-color: lightgray;
+    border-radius: 10px;
+  }
+  
+  .about2 {
+    background-color: lightblue;
+    border-radius: 10px;
+  }
+  
+  .bgchange {
+    background-color: lightcoral;
+  }
+  
+  .my-custom-scrollbar {
+    max-height: 400px;
+    overflow-y: scroll;
+  }
+  
+  .txt_white {
+    color: white;
+  }
